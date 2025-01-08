@@ -1,5 +1,5 @@
 # Taller11
-
+### Integrantes: Joel Domínguez Ochoa - Diego Espinosa Granda
 * Para el taller se debe usar los conceptos de funciones y procedimientos
 
 ### Problema 01
